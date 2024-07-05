@@ -1,0 +1,13 @@
+.Garage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.AjoutForm{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 2%
+}

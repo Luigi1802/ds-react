@@ -1,0 +1,22 @@
+.Vehicule {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    justify-content: center;
+    border: 2px solid rgb(184, 184, 184);
+    padding: 1%;
+}
+
+.VehiculeInfoRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.expandButton{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-self: left;
+}
