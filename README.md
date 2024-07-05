@@ -11,6 +11,6 @@ Le jeu de données de base pour les 3 véhicules existant est présent dans src/
 
 ### Lancement de l'appli
 
-`npm install` dans ds-garage
+`npm install` 
 
 puis `npm run dev`
